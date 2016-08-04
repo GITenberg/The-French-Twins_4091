@@ -1,0 +1,31 @@
+_repo: The-French-Twins_4091
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perkins, Lucy Fitch
+    alias: Fitch, Lucy
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '1216'
+    url: http://www.gutenberg.org/2009/agents/1216
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
+description: Go back to France during the First World War and into the lives of two
+  nine year old twins, Pierre and Pierrette Meraut. Share the adventures and tribulations
+  of the Meraut family in the midst of the German invasion and get a glimpse of French
+  culture, and also gain some exposure to the French and German languages.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- France -- Juvenile fiction'
+- GITenberg
+title: The French Twins
+url: http://www.gutenberg.org/ebooks/4091
